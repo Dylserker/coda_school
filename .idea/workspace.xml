@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f933950-8bac-4c95-95e4-247f9ac2a455" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/dataSources/b2f455e8-0bc5-4cb9-9de3-09f65e964e50.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/dataSources/b2f455e8-0bc5-4cb9-9de3-09f65e964e50/storage_v2/_src_/schema/coda_school_new.a2as_w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/dataSources/b2f455e8-0bc5-4cb9-9de3-09f65e964e50/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/dataSources/b2f455e8-0bc5-4cb9-9de3-09f65e964e50/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/dataSources/b2f455e8-0bc5-4cb9-9de3-09f65e964e50/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/dataSources/b2f455e8-0bc5-4cb9-9de3-09f65e964e50/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/Controller/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/Controller/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/Controller/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/Controller/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/Controller/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/Controller/users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/Includes/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/Includes/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/Model/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/Model/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/Model/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/Model/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/Model/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/Model/users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/View/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/View/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/View/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/View/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/View/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/View/users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/_Partials/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/_Partials/navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coda_school/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/coda_school/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Exilium_carnage/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/coda_school" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dylserker"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ImTheOryo/Coda_Shool.git",
+    "accountId": "7c2fae74-1162-4015-8154-dbae245c0c16"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2qIns8hEbwXZYu9zQAT20u4Z4ka" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/xampp/htdocs",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f933950-8bac-4c95-95e4-247f9ac2a455" name="Changes" comment="" />
+      <created>1734359160853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734359160853</updated>
+      <workItem from="1734359162174" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
